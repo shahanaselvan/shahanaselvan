@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey, I'm Shahana Selvan 👋
 
-<!--
-**shahanaselvan/shahanaselvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech IT Student | Aspiring Software Engineer | Cloud & DevOps Learner
 
-Here are some ideas to get you started:
+💻 Exploring technology, building projects, and learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Strengthening my Python and problem-solving skills
+- ☁️ Exploring AWS and cloud infrastructure
+- ⚙️ Learning Docker, Jenkins, and CI/CD automation
+- 🤖 Worked on GESTURA, an AI-based communication platform
+- 🎯 Currently building projects and preparing for software engineering opportunities
+
+### 🛠️ Technologies I'm Exploring
+
+**Programming:** Python
+
+**Cloud & DevOps:** AWS · Docker · Jenkins · Terraform
+
+**Tools:** Git · GitHub · Linux
+
+**Core CS:** OOP · DBMS · Operating Systems · Computer Networks
+
+### 🚀 Featured Projects
+
+- **GESTURA** — AI-based communication platform designed around hand gestures.
+- **Jenkins + Docker CI/CD** — Hands-on learning project exploring build and deployment automation.
+- **AWS Cloud Infrastructure** — Learning project covering cloud networking, compute, and monitoring.
+
+*Project links will be added as the repositories are documented and published.*
+
+
+
+### 🌱 My Philosophy
+
+Learn the fundamentals. Build real things. Keep improving.
+
+### 🤝 Connect With Me
+
+- GitHub: [@shahanaselvan](https://github.com/shahanaselvan)
+- LinkedIn:www.linkedin.com/in/shahana-selvan-86b5a8200
+---
+
+⭐ Thanks for stopping by!
